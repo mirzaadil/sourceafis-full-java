@@ -1,0 +1,1 @@
+基于SourceAFIS，SourceAFIS是c#写的一套指纹采集比对项目，有Java实现，但是不完整，打算抽时间把Java部分写分整
